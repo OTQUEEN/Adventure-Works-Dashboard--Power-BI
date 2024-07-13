@@ -32,7 +32,7 @@ As poor performance results in a negative user experience. I optimized the perfo
 * Summarizing data where possible.
 
 
-
+[Please click for Analysis and Dashbaord reporting](https://github.com/OTQUEEN/Adventure-Works-Dashboard--Power-BI/commit/7469267d67a5419bed306cbaf763c8b549400933)
 
 
 
