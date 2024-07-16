@@ -1,5 +1,7 @@
-# Adventure-Works-Dashboard-Power-BI
-Adventure Works Cycles, Dashboard Analysis Report
+# Adventure Works Cycles-Dashboard Power BI
+[Please click here for Analysis and Dashbaord reporting](https://github.com/OTQUEEN/Adventure-Works-Dashboard--Power-BI/commit/7469267d67a5419bed306cbaf763c8b549400933)
+
+[Here for dataset](https://github.com/OTQUEEN/Adventure-Works-Dashboard--Power-BI/commit/03eea5c6b341c496499b29b2a1e94bc4893e7404)
 
 # Introduction
 Adventure Works company is a large, multinational manufacturing company that produces and distributes bicycles, parts, and accessories for commercial markets in North America, Europe, and Asia Pacific. The company employs several workers across the three continents. Additionally, Adventure Works employs several regional sales teams throughout its market base. This project seeks to create a model for analysis and to provide an insightful information to drive decision-making at the marketing team and also for a glance of KPI's to enable enable executive decision. 
